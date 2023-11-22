@@ -73,7 +73,7 @@ Gewch is a food rating website that collects reviews from people worldwide for f
 
 Allow users to register as Artists/Reviewers or Clients (restaurant and food chain owners) to interact with the platform.
 
- <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
+
 
 
 
@@ -81,14 +81,14 @@ Allow users to register as Artists/Reviewers or Clients (restaurant and food cha
 
 Enable users from around the world to post their reviews and ratings for different food companies, restaurants, and food chains.
 
- <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
+
 
 
 ## Filtration
 
 Provide search and filtering capabilities so that users can find specific restaurants or food chains based on various criteria, such as cuisine type, location, ratings, etc
 
- <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
+
 
 
 
